@@ -19,10 +19,10 @@
   "author": "Ammar <hi@iammarjamal.me> (https://github.com/iammarjamal)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iammarjamal/vite-plugin-html-include.git"
+    "url": "git+https://github.com/RqeimCloud/vite-plugin-html-include.git"
   },
   "bugs": {
-    "url": "https://github.com/iammarjamal/vite-plugin-html-include/issues"
+    "url": "https://github.com/RqeimCloud/vite-plugin-html-include/issues"
   },
   "engines": {
     "node": ">=18.0.0"
